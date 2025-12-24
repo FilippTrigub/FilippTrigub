@@ -1,5 +1,5 @@
 # ![](https://trigub.tech/images/icon.png) What I'm up to:
-Working on parallel AI agents for sustained rapid development.
+Working on parallel AI agents for sustained rapid development with blackbox.ai.
 
 Personally interested in
 - long-horizon agentic tasks
@@ -13,13 +13,8 @@ Warning: Eastern European - can be laconic.
 ![](https://nirzak-streak-stats.vercel.app?user=FilippTrigub&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippTrigub&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-![](https://github-readme-stats.vercel.app/api?username=FilippTrigub&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/?username=FilippTrigub&theme=ocean_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippTrigub&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipp-trigub) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@FilippTrigub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filipptri) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipp-trigub) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@FilippTrigub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filipptri)
 
 # 💻 Tech Stack:
 
@@ -30,7 +25,7 @@ Warning: Eastern European - can be laconic.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) 
 
 ## UI & mobile
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ## Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
