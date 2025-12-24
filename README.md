@@ -10,7 +10,12 @@ Warning: Eastern European - can be laconic.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FilippTrigub&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FilippTrigub&theme=ocean_dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app?user=FilippTrigub&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippTrigub&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+![](https://github-readme-stats.vercel.app/api?username=FilippTrigub&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/?username=FilippTrigub&theme=ocean_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippTrigub&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 🌐 Socials:
