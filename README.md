@@ -1,6 +1,8 @@
 # 💫 About Me:
 Working on parallel AI agents for sustained rapid development.<br><br>Personally interested in<br>- long-horizon agentic tasks<br>- small models and model quantization<br>- agentic Ops<br><br>
 
+Warning: Eastern European - can be laconic.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FilippTrigub&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FilippTrigub&theme=ocean_dark&hide_border=true)<br/>
