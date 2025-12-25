@@ -39,6 +39,10 @@ Warning: Eastern European - can be laconic.
 ## DBs
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 
+<p align="center">
+  <img src="simple_glare.gif" height="200" alt="demo gif" />
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=FilippTrigub&icon=2&color=1)](https://visitcount.itsvg.in)
 
