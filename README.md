@@ -13,9 +13,6 @@ Warning: Eastern European - can be laconic.
 ![](https://nirzak-streak-stats.vercel.app?user=FilippTrigub&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippTrigub&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# 🌐 Feel free to reach out:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipp-trigub) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@FilippTrigub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filipptri)
-
 # 💻 My AI-focussed Full-Stack:
 
 ## ML & Data Science
@@ -39,6 +36,8 @@ Warning: Eastern European - can be laconic.
 ## DBs
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 
+# 🌐 Feel free to reach out:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipp-trigub) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@FilippTrigub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filipptri)
 <p align="center">
   <img src="simple_glare.gif" height="200" alt="demo gif" />
 </p>
