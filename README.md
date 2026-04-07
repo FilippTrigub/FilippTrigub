@@ -9,7 +9,7 @@ Personally interested in
 Warning: Eastern European - can be laconic.
 
 # 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=FilippTrigub&theme=github-dark&exclude_days=Sun%2CSat)
+![](https://streak-stats.demolab.com?user=FilippTrigub&theme=github-dark&border_radius=0)
 
 ![](https://github-readme-stats-h0ox6xyf5-trigub-tech.vercel.app/api/top-langs/?username=FilippTrigub&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
