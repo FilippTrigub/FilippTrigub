@@ -12,6 +12,8 @@ Warning: Eastern European - can be laconic.
 ![](https://nirzak-streak-stats.vercel.app?user=FilippTrigub&theme=github-dark&exclude_days=Sun%2CSat)
 ![](https://github-readme-stats-h0ox6xyf5-trigub-tech.vercel.app/api/top-langs/?username=FilippTrigub&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=FilippTrigub&theme=github-dark&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+
 # 💻 My AI-focussed Full-Stack:
 
 ## ML & Data Science
