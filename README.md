@@ -11,7 +11,7 @@ Warning: Eastern European - can be laconic.
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=FilippTrigub&theme=github-dark&border_radius=0&hide_border=true)
 
-![](https://github-readme-stats-h0ox6xyf5-trigub-tech.vercel.app/api/top-langs/?username=FilippTrigub&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-h0ox6xyf5-trigub-tech.vercel.app/api/top-langs/?username=FilippTrigub&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 # 💻 My AI-focussed Full-Stack:
