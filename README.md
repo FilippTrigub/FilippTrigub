@@ -1,9 +1,9 @@
 # ![](https://trigub.tech/images/icon.png) What I'm up to:
-Working on parallel AI agents for sustained rapid development with blackbox.ai.
+Working on agentic platforms for sustained rapid development.
 
 Personally interested in
 - long-horizon agentic tasks
-- small models and model quantization
+- AI on the edge
 - agentic Ops
 
 Warning: Eastern European - can be laconic.
