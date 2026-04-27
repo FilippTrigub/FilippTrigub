@@ -2,11 +2,11 @@
 Working on agentic platforms for sustained rapid development.
 
 Personally interested in
+- Edge AI & AI in robotics
 - long-horizon agentic tasks
-- AI on the edge
 - agentic Ops
 
-Warning: Eastern European - can be laconic.
+Top [5% of GitHub](https://www.gitclear.com/research_studies/git_commit_count_percentiles_annual_days_active_from_largest_data_set) commits. Warning: Eastern European - can be laconic.
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=FilippTrigub&theme=github-dark&border_radius=0&hide_border=true)
